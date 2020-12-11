@@ -2,6 +2,9 @@
 
 require_once 'connect.php';
 
+
+// Создаём переменныю для вывода инфомрации
+
 $errors  = [];
 $success = [];
 
